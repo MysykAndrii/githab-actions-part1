@@ -1,6 +1,11 @@
+# GitHub Actions Part-1 Basics
+
+
+Status of Last Deployment:<br>
+<img scr="https://github.com/MysykAndrii/githab-actions-part1/workflows/My-GitHubActions-Basics/badge.svg?branch=main"><br>
+
 pyramid_blogr
 =============
-
 Getting Started
 ---------------
 
