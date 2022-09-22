@@ -2,7 +2,9 @@
 
 
 Status of Last Deployment:<br>
-<img scr="https://github.com/MysykAndrii/githab-actions-part1/workflows/My-GitHubActions-Basics/badge.svg?branch=main"><br>
+<img src="https://github.com/MysykAndrii/githab-actions-part1/workflows/My-GitHubActions-Basics/badge.svg?branch=main"><br>
+
+Copyleft by Andrii Mysyk 2022
 
 pyramid_blogr
 =============
